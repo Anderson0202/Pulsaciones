@@ -10,6 +10,7 @@ namespace Pulsaciones
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
