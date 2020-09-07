@@ -10,7 +10,8 @@ namespace Pulsaciones
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola Mundo, ¿Como estas?");
+            Console.WriteLine("Bienvenido al medidor de Pulsaciones ");
+
         }
     }
 }
