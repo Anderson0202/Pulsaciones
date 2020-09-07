@@ -10,7 +10,7 @@ namespace Pulsaciones
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola Mundo");
+            Console.WriteLine("Hola Mundo, ¿Como estas?");
         }
     }
 }
