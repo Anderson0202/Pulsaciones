@@ -10,7 +10,9 @@ namespace Pulsaciones
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Bienvenido al medidor de Pulsaciones. ");
+
+            Pulsacion p = new Pulsacion();
+            p.CalculaPulso();
 
         }
     }

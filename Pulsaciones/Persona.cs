@@ -8,5 +8,7 @@ namespace Pulsaciones
 {
     class Persona
     {
+        public int edad  { get; set; }
+        public char sexo { get; set; }
     }
 }
